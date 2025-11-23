@@ -75,14 +75,6 @@ The dashboard provides insights through interactive visualizations, including:
 
 ---
 
-
----
-
-## How to Use
-1. Download or clone this repository.  
-2. Open the Tableau workbook in  
-3. Explore the interactive dashboard and apply filters to analyze sales and profitability.
-
 ---
 
 ## Author
